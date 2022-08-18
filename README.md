@@ -6,3 +6,4 @@ Foram abordados conceitos mais avançados na semântica HTML, Box Model / Flexbo
 
 Criado uma página de negócio voltada para o mercado fitness, contando com hyperlinks, barra de navegação e botão de redirecionamento.
 
+Deploy: https://projeto02-explorer.netlify.app/
